@@ -1,8 +1,6 @@
 # Combined Visual Encoding of Absolute(Part) and Fractional(Part-to-Whole) Values
 
-<!-- ![Four visualization designs showing three data points with absolute values A=[77, 127, 42], fractional values F=[0.31, 0.65, 0.42], and respective whole valuesW=[252, 195, 100].](4_design_choices.PNG "Teaser Figure") -->
-
-<img src="4_design_choices.PNG" alt="Teaser Figure" title="Four visualization designs showing three data points with absolute values A=[77, 127, 42], fractional values F=[0.31, 0.65, 0.42], and respective whole valuesW=[252, 195, 100]." style="width: 40%;">
+<img src="4_design_choices.png" alt="Teaser Figure" title="Four visualization designs showing three data points with absolute values A=[77, 127, 42], fractional values F=[0.31, 0.65, 0.42], and respective whole valuesW=[252, 195, 100]." style="width: 100%;">
 
 This an initial design space exploration for visualizations that visualize both absolute and fractional values. It is an prototype implementation of an designs discussed in the following poster research paper:
 
