@@ -4,7 +4,7 @@
 
 This an initial design space exploration for visualizations that visualize both absolute and fractional values. It is an prototype implementation of an designs discussed in the following poster research paper:
 
-*Exploring Designs for Combined Visual Encoding of Absolute and Fractional Values*. Madhav Poddar, and Fabian Beck. EuroVis 2024. DOI: 10.2312:evp.20241082
+*Exploring Designs for Combined Visual Encoding of Absolute and Fractional Values*. Madhav Poddar, and Fabian Beck. EuroVis 2024. DOI: [10.2312:evp.20241082](https://doi.org/10.2312/evp.20241082)
 
 The visualizations were developed using the [Bokeh library](https://bokeh.pydata.org/en/latest/) in Python.
 
